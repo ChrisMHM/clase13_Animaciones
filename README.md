@@ -1,4 +1,4 @@
-# clase13_Animaciones
+# Clase 13: Animaciones
 
 Animaciones completadas:
 - Transición de botones de redes sociales.
